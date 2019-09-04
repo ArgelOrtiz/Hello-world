@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Hello world V2</string>
+
+    <string-array name="hello">
+        <item>Hello world</item>
+        <item>this is a greeting.</item>
+    </string-array>
+</resources>
